@@ -1,0 +1,2 @@
+# kODx
+kODx mIRC Script
